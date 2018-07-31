@@ -1,5 +1,1 @@
-Vender itens da ladylu, ficar de olho no estoque para ve se 
-tem no estoque, ai pega no correiro e envia.
 
-Ai agente vai precisar criar um site para mim para vender itens.
-E depois agente paga a ladylu.
